@@ -171,14 +171,14 @@ export default function DashboardPage() {
           weekendRoadmap: [
             {
               weekend: 1, focus: "System Design Basics", totalHours: 10, tasks: [
-                { task: "Understand Client-Server Architecture", resource: "", type: "article", duration: "2h" },
-                { task: "Learn about Load Balancing", resource: "", type: "youtube", duration: "3h" }
+                { task: "Understand Client-Server Architecture", resource: "https://roadmap.sh/guides/client-server", type: "article", duration: "2h" },
+                { task: "Learn about Load Balancing", resource: "https://www.youtube.com/watch?v=K0Ta65OqQkY", type: "youtube", duration: "3h" }
               ]
             },
             {
               weekend: 2, focus: "Cloud Foundations", totalHours: 15, tasks: [
-                { task: "Deploy an app on AWS EC2", resource: "", type: "project", duration: "5h" },
-                { task: "Set up S3 Object Storage", resource: "", type: "project", duration: "3h" }
+                { task: "Deploy an app on AWS EC2", resource: "https://aws.amazon.com/getting-started/hands-on/deploy-app-ec2/", type: "project", duration: "5h" },
+                { task: "Set up S3 Object Storage", resource: "https://aws.amazon.com/s3/getting-started/", type: "project", duration: "3h" }
               ]
             }
           ],
