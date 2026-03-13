@@ -214,7 +214,7 @@ export default function DashboardPage() {
           <div className="w-10 h-10 rounded-xl bg-[#FDB813] flex items-center justify-center shadow-md">
             <span className="font-extrabold text-white text-xl">N</span>
           </div>
-          <span className="text-2xl font-black tracking-tight text-[#333333]">Nexus</span>
+          <span className="text-2xl font-black tracking-tight text-[#333333]">NODENEXUS</span>
         </div>
 
         <nav className="flex-1 space-y-2">

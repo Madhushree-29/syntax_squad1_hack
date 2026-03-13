@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nexus — Reality Check | Bridge Your Hireability Gap",
+  title: "NODENEXUS — Reality Check | Bridge Your Hireability Gap",
   description:
     "AI-powered career gap analysis. Upload your syllabus, paste your dream job, and get a brutally honest roadmap to close the gap — with exact resources.",
   keywords: [

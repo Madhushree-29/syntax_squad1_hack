@@ -91,7 +91,7 @@ export default function Home() {
             <Sparkles size={18} color="#050510" strokeWidth={2.5} />
           </div>
           <span className="text-lg font-bold tracking-tight">
-            <span className="neon-text">Nexus</span>
+            <span className="neon-text">NODENEXUS</span>
           </span>
         </Link>
         <div className="flex items-center gap-4">
@@ -351,10 +351,10 @@ export default function Home() {
         style={{ borderColor: "var(--border-subtle)" }}>
         <div className="flex items-center gap-2">
           <Sparkles size={16} style={{ color: "var(--neon-cyan)" }} />
-          <span className="text-sm font-semibold neon-text">Nexus</span>
+          <span className="text-sm font-semibold neon-text">NODENEXUS</span>
         </div>
         <p className="text-xs" style={{ color: "var(--text-muted)" }}>
-          © 2026 Nexus. Built for engineers who refuse to be irrelevant.
+          © 2026 NODENEXUS. Built for engineers who refuse to be irrelevant.
         </p>
       </footer>
     </div>

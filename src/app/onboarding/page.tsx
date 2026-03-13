@@ -568,7 +568,7 @@ export default function OnboardingPage() {
             <Sparkles size={18} color="#050510" strokeWidth={2.5} />
           </div>
           <span className="text-lg font-bold tracking-tight neon-text">
-            Nexus
+            NODENEXUS
           </span>
         </Link>
         <span
